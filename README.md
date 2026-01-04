@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1> Austin Moran <br/> MS in Neuroscience <br/> <a href="https://www.linkedin.com/in/atmoran/"> Clinical Research Coordinator </a> </h1>
 
-<!--
-**atmoran/atmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Data Analysis Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Demographics Analysis </b>
+  - [Basic Data Analysis using R Studio](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [R Markdown Report](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b> Clinical Assessments Analysis </b>
+  - [Basic Data Analysis using R Studio](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b> Computerized Neurocognitive Battery Assessment Analysis </b>
+  - [Basic Data Analysis using R Studio](https://github.com/joshmadakor1/Algorithms-Practice)
